@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "472385ab82ba41e17f4ec8beb19f7a31"
+build_time: [532026687, 800085000]
+inputs:
+  "/Users/apple/Downloads/EDXDummyApp/EDXDummyApp/ViewController.swift": [531991871, 0]
+  "/Users/apple/Downloads/EDXDummyApp/EDXDummyApp/AppDelegate.swift": [532000501, 0]
